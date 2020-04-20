@@ -71,6 +71,57 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Paint the fence",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "id": 4
+    },
+    {
+      "category": "food",
+      "organizer": "Adam Jahr",
+      "title": "ddsvsdv",
+      "description": "vdvsvsd",
+      "location": "sadasdasd",
+      "date": "2020-04-09T10:11:00.000Z",
+      "time": "8:00",
+      "attendees": [],
+      "id": 5
+    },
+    {
+      "category": "community",
+      "organizer": "Adam Jahr",
+      "title": "Lets watch a movie!",
+      "description": "The Flintstones",
+      "location": "My home",
+      "date": "2020-04-09T10:21:00.000Z",
+      "time": "10:00",
+      "attendees": [],
+      "id": 6
+    },
+    {
+      "category": "animal welfare",
+      "organizer": "Adam Jahr",
+      "title": "dwdwdw",
+      "description": "eewwqeq",
+      "location": "qwewqewqe",
+      "date": "2020-04-04T10:24:00.000Z",
+      "time": "9:00",
+      "attendees": [],
+      "id": 296519,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      }
     }
   ]
 }
