@@ -231,6 +231,51 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "category": "",
+      "organizer": "Adam Jahr",
+      "title": "wwwqw",
+      "description": "wqwqwqw",
+      "location": "wqwqw",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "id": 6221670,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      }
+    },
+    {
+      "category": "education",
+      "organizer": "Adam Jahr",
+      "title": "ewewew",
+      "description": "ewewe",
+      "location": "rerw",
+      "date": "2020-04-06T12:44:00.000Z",
+      "time": "17:00",
+      "attendees": [],
+      "id": 4604,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      }
+    },
+    {
+      "category": "education",
+      "organizer": "Adam Jahr",
+      "title": "ddsdsd",
+      "description": "dsdsd",
+      "location": "dsdsds",
+      "date": "2020-04-02T12:50:00.000Z",
+      "time": "17:00",
+      "attendees": [],
+      "id": 7217177,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      }
     }
   ]
 }
